@@ -2,10 +2,10 @@
 <hr>
 <img align='left' src="https://user-images.githubusercontent.com/101571277/199268136-d37e0696-d49f-432b-a62e-4ee670de8848.png" width="400">
 
-### 👨🏻‍💻 &nbsp;About Me
+### ✨ &nbsp;About Me
 
 💻 &nbsp;I'm a analytics engineer at XP Inc. <a href="https://www.xpinc.com/">@XPInc.</a> \
-🎓&nbsp;I graduated form Universidade de Brasília - UnB, Brasil (Accounting, Batch of 2018).\
+🎓&nbsp;I graduated form Universidade de Brasília - UnB, Brasil (Accounting 📈, Batch of 2018).\
 💡&nbsp;I'm always learning more about Data & Analytics.\
 ✉️ &nbsp;You can email me at ems.erikamedeiros@gmail.com. I'll try to respond as soon as possible!
 
