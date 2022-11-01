@@ -13,7 +13,7 @@
 **My skills include** 
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-  ![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery)&nbsp;
+  ![Big Query](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery)&nbsp;
   ![dbt](https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt)&nbsp;
   
  **You can find me in** 
@@ -22,6 +22,6 @@
   <hr>
 
 <div align="center">  
-
+  <p>&nbsp;Last but not least:</p> 
   <p><img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100"></p>
 </div>
