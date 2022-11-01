@@ -5,7 +5,7 @@
 ### ✨ &nbsp;About Me
 
 💻 &nbsp;I'm a analytics engineer at XP Inc. <a href="https://www.xpinc.com/">@XPInc.</a> \
-🎓&nbsp;I graduated form Universidade de Brasília - UnB, Brasil (Accounting 📈, Batch of 2018).\
+🎓&nbsp;I graduated form <a href="http://cca.unb.br/">@UnB.</a>, Brasil (Accounting 📈, Batch of 2018).\
 💡&nbsp;I'm always learning more about Data & Analytics.\
 ✉️ &nbsp;You can email me at ems.erikamedeiros@gmail.com. I'll try to respond as soon as possible!
 
