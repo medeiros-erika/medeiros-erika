@@ -22,6 +22,6 @@
   <hr>
 
 <div align="center">  
-  🏒&nbsp;Last but not least: <strong><a href="https://www.nhl.com/jets">GO JETS!</a></strong>
-  <p><img src="https://media.giphy.com/media/5aY5aPfx9gOg80N5oL/giphy.gif" width="100"></p>
+
+  <p><img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100"></p>
 </div>
