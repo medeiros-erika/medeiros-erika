@@ -4,7 +4,7 @@
 
 ### ✨ &nbsp;About Me
 
-💻 &nbsp;I'm a analytics engineer at <a href="https://www.xpinc.com/">@Natura &Co.</a> \
+💻 &nbsp;I'm a analytics engineer at <a href="https://www.naturaeco.com/">@Natura &Co.</a> \
 🎓&nbsp;I graduated form <a href="http://cca.unb.br/">@UnB.</a>, Brasil (Accounting 📈, Batch of 2018).\
 💡&nbsp; I'm a Finance professional and a Data & Analytics Engineer. I'm always learning more about Data & Analytics to generate data-driven insights and results for business with focus on good data quality and data governance.
 .\
